@@ -8,8 +8,7 @@ An assembly (or assembler) language, often abbreviated asm, is a low-level progr
 
 ◦ _ft_write (man 2 write)_
 
-◦_ ft_read (man 2 read)_
-
+◦ _ft_read (man 2 read)_\n
 ◦ _ft_strdup (man 3 strdup, you can call to malloc)_
 
 <h2>Final grade : 100/125</h2>
